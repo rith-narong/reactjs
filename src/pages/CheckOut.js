@@ -31,7 +31,7 @@ const CheckoutForm = () => {
     };
 
     const initialPayPalOptions = {
-        "client-id": "AdkIKeolir9SkeTBaEPAY9C28SIv4PVGjo0QYcGuSs_kgCEUdBXzfgeIh1Um_vL7ANkbeq7V8JQihtc4",
+        "client-id": "AWJGlb6_H05_miLwW33_bEWJo2kzwP6Sb22-50kAhCqeNHjuCNj6grfj5dvhg_o_9qcyUyKRzyIhDra9",
         currency: "USD",
     };
 

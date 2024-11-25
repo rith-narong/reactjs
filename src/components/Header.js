@@ -63,7 +63,7 @@ function Header() {
                   <div className="col-lg-7 pr-0">
                     <ul className="nav navbar-nav center_nav pull-right">
                       <li className="nav-item active">
-                        <Link className="nav-link" to="index.html">Home</Link>
+                        <Link className="nav-link" to="/">Home</Link>
                       </li>
                       <li className="nav-item submenu dropdown">
                         <Link to="#" className="nav-link dropdown-toggle" data-toggle="dropdown">
